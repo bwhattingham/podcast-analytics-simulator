@@ -1,1 +1,16 @@
-open -e scripts/analyze_episode.py
+{
+  "episode_title": "Interview with Emily Wolfe",
+  "duration_seconds": 3600,
+  "retention": [
+    {"timestamp": 0, "percentage": 100},
+    {"timestamp": 300, "percentage": 92},
+    {"timestamp": 900, "percentage": 85},
+    {"timestamp": 1800, "percentage": 70},
+    {"timestamp": 2700, "percentage": 62},
+    {"timestamp": 3300, "percentage": 55}
+  ],
+  "spikes": [
+    {"timestamp": 420, "reason": "Funny moment"},
+    {"timestamp": 2100, "reason": "Emotional story"}
+  ]
+}
