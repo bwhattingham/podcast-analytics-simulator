@@ -1,0 +1,1 @@
+open -e scripts/analyze_episode.py

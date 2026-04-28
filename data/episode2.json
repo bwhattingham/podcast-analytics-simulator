@@ -1,0 +1,16 @@
+{
+  "episode_title": "Interview with WREX",
+  "duration_seconds": 3300,
+  "retention": [
+    {"timestamp": 0, "percentage": 100},
+    {"timestamp": 300, "percentage": 95},
+    {"timestamp": 900, "percentage": 88},
+    {"timestamp": 1800, "percentage": 76},
+    {"timestamp": 2700, "percentage": 68},
+    {"timestamp": 3200, "percentage": 60}
+  ],
+  "spikes": [
+    {"timestamp": 600, "reason": "Big riff moment"},
+    {"timestamp": 2400, "reason": "Band origin story"}
+  ]
+}
